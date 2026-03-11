@@ -1,4 +1,3 @@
-# INDUS-TOWER-Stock-Price-Prediction-using-SLR
 
 # Indus Tower Stock Price Prediction using Simple Linear Regression
 
